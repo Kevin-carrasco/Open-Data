@@ -16,3 +16,4 @@ Thumbs.db
 
 # diff files
 *.bak
+.Rproj.user
