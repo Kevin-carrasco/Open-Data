@@ -51,65 +51,37 @@ page_data:
         | Base STATA Data 2016|[.dta](https://bit.ly/3QxTpuP)             |
         | Questionary En 2016 |[.pdf](https://bit.ly/3PywFcH)             |
         | Cuestionario Es 2016|[.pdf](https://bit.ly/3dEEksX)             |
-        | User Manual 2016    |[.pdf](https://bit.ly/3QXDNAJ)             |
+        | User Manual Es 2016 |[.pdf](https://bit.ly/3QXDNAJ)             |
+        {:data-align="center"}
+        
+    - type: id_example
+      project_name: "ELSOC 2017"
+      project_excerpt: "Data Bases"
+      img: ":project1_thumb.jpg"
+      img_title: "ELSOC"
+      date: "2018-11-12"
+      post: |
+        # About ELSOC
+
+        The Chilean Longitudinal Social Survey (ELSOC) is a panel study, unique in Chile and Latin America. It consists of surveying nearly 3,000 Chileans annually over a decade. ELSOC has been designed to evaluate the way in which Chileans think, feel and behave regarding a set of social issues related to conflict and social cohesion in Chile. Because of its nature, it seeks to analyze, longitudinally, the main background, moderating and mediating factors, as well as the primary consequences associated with the development of the distinct forms of social conflict and cohesion in Chile. The territorial and geographic dimension constitutes a transversal aspect of the design and subsequent analysis of the results.
+
+        Among other topics, it seeks to analyze the perception that people have about the neighborhood or the community in which they live; forms of civic participation and formal political activity, attitudes toward democracy, pro-social behavior, primary and extended social networks, attitudes toward immigrants, economic inequality, employment, socio-economic characterization. Given that these issues are integrated in a single survey, it would be possible to relate these aspects in comprehensive models to understand Chilean’s social reality, incorporating contextual geospatial and social information.
+
+        ELSOC’s sample has been designed following a multi-stage probability approach, using a stratified sample (by city size). First, forty cities were randomly selected from tires with more than 10.000 habitants (from a total of 122 cities). In a second stage, 1067 urban blocks were randomly selected within the forty cities. Then, in a third stage households were randomly selected, and lastly, within each household individuals over 18 years of age were randomly selected. By design, there will be a refresh sample during the third wave. The sample of the first wave of the study is representative of an urban population living in cities of 10,000 or more inhabitants, and represents approximately 77% of the total adult population, and 93% of the urban population. The response rate (AAPOR RR1) was 62.4%. Interviews are conducted face to face with computer assistance (tablet CAPI) by professional interviewers, and participants are paid a small sum for subsequent interviews (USD 9 approximately).
+ 
+
+        ### File downloads Wave 02
+        {:data-align="center"}
+        
+
+        |File                 |   Download link                           |
+        | ------------------- | :---------------------------------------: |
+        | Base R Data 2017    |[.RData](https://bit.ly/3QE9HCn)           |
+        | Base SPSS Data 2017 |[.sav](https://bit.ly/3CfbCJa)             |
+        | Base STATA Data 2017|[.dta](https://bit.ly/3Ca3QjU)             |
+        | Cuestionario Es 2017|[.pdf](https://bit.ly/3SX0g2z)             |
+        | User Manual Es 2017 |[.pdf](https://bit.ly/3Ax5drq)             |
         {:data-align="center"}
 
-    # picture
-    - type: id_picture
-      project_name: "Example Project"
-      project_excerpt: "Picture"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
-      post: |
-        # Title
-        This is project content.
 
-        ![Image](:project2_thumb.jpg)
-
-    # quote
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      date: "2021-05-27"
-      post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
-      post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "img title5"
-      date: "2021-08-20"
-      post: |
-        You only live once, but if you do it right, once is enough.
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
-      img_title: "img title6"
-      date: "2021-12-20"
-      post: |
-        Be the change that you wish to see in the world.
+   
