@@ -44,9 +44,9 @@ page_data:
         {:data-align="center"}
         
 
-        |File                 |   Download link (right align)             |
+        |File                 |   Download link                           |
         | ------------------- | :---------------------------------------: |
-        | Base R Data 2016    |[.RData]((https://bit.ly/3waE9Mo)          |
+        | Base R Data 2016    |[.RData](https://bit.ly/3waE9Mo)           |
         | Base SPSS Data 2016 |[.sav](https://bit.ly/3SSYS0V)             |
         | Base STATA Data 2016|[.dta](https://bit.ly/3QxTpuP)             |
         | Questionary En 2016 |[.pdf](https://bit.ly/3PywFcH)             |
