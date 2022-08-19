@@ -1,4 +1,3 @@
----
 # About ELSOC
 
         The Chilean Longitudinal Social Survey (ELSOC) is a panel study, unique in Chile and Latin America. It consists of surveying nearly 3,000 Chileans annually over a decade. ELSOC has been designed to evaluate the way in which Chileans think, feel and behave regarding a set of social issues related to conflict and social cohesion in Chile. Because of its nature, it seeks to analyze, longitudinally, the main background, moderating and mediating factors, as well as the primary consequences associated with the development of the distinct forms of social conflict and cohesion in Chile. The territorial and geographic dimension constitutes a transversal aspect of the design and subsequent analysis of the results.
@@ -20,4 +19,4 @@
         | User Manual Es 2018 |[.pdf](https://bit.ly/3Ax5drq)             |
         {:data-align="center"}
 
----
+
