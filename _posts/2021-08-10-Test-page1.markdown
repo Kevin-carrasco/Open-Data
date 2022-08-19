@@ -45,6 +45,11 @@ date: 2021-08-11 12:35:04 +0900
 
         ELSOC’s sample has been designed following a multi-stage probability approach, using a stratified sample (by city size). First, forty cities were randomly selected from tires with more than 10.000 habitants (from a total of 122 cities). In a second stage, 1067 urban blocks were randomly selected within the forty cities. Then, in a third stage households were randomly selected, and lastly, within each household individuals over 18 years of age were randomly selected. By design, there will be a refresh sample during the third wave. The sample of the first wave of the study is representative of an urban population living in cities of 10,000 or more inhabitants, and represents approximately 77% of the total adult population, and 93% of the urban population. The response rate (AAPOR RR1) was 62.4%. Interviews are conducted face to face with computer assistance (tablet CAPI) by professional interviewers, and participants are paid a small sum for subsequent interviews (USD 9 approximately).
  
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+{%- include util/auto-content-generator.liquid -%}
+
+<!-- outline-start -->
 
 # File downloads Wave 03
 {:data-align="center"}
@@ -57,5 +62,14 @@ date: 2021-08-11 12:35:04 +0900
         | Cuestionario Es 2018|[.pdf](https://bit.ly/3SX0g2z)             |
         | User Manual Es 2018 |[.pdf](https://bit.ly/3Ax5drq)             |
         {:data-align="center"}
+
+
+
+{{ website_info_text_first }}
+
+<!-- outline-end -->
+
+{{ website_info_text_second }}
+
 
 
