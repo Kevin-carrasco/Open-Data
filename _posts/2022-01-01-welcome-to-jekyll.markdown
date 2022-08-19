@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_What_is_this
-title: "Welcome to Jekyll!"
+title: "ELSOC 2018"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -49,12 +49,12 @@ ELSOC’s sample has been designed following a multi-stage probability approach,
 File downloads Wave 03
 {:data-align="center"}
         
-        |File                 |   Download link                           |
-        | ------------------- | :---------------------------------------: |
-        | Base R Data 2018    |[.RData](https://bit.ly/3QE9HCn)           |
-        | Base SPSS Data 2018 |[.sav](https://bit.ly/3CfbCJa)             |
-        | Base STATA Data 2018|[.dta](https://bit.ly/3Ca3QjU)             |
-        | Cuestionario Es 2018|[.pdf](https://bit.ly/3SX0g2z)             |
-        | User Manual Es 2018 |[.pdf](https://bit.ly/3Ax5drq)             |
-        {:data-align="center"}
+|File                 |   Download link                           |
+| ------------------- | :---------------------------------------: |
+| Base R Data 2018    |[.RData](https://bit.ly/3QE9HCn)           |
+| Base SPSS Data 2018 |[.sav](https://bit.ly/3CfbCJa)             |
+| Base STATA Data 2018|[.dta](https://bit.ly/3Ca3QjU)             |
+| Cuestionario Es 2018|[.pdf](https://bit.ly/3SX0g2z)             |
+| User Manual Es 2018 |[.pdf](https://bit.ly/3Ax5drq)             |
+{:data-align="center"}
 
