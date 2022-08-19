@@ -38,22 +38,23 @@ date: 2022-01-01 10:04:30 +0900
 ---
 <!-- outline-start -->
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.<!-- outline-end --> You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# About ELSOC
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+        The Chilean Longitudinal Social Survey (ELSOC) is a panel study, unique in Chile and Latin America. It consists of surveying nearly 3,000 Chileans annually over a decade. ELSOC has been designed to evaluate the way in which Chileans think, feel and behave regarding a set of social issues related to conflict and social cohesion in Chile. Because of its nature, it seeks to analyze, longitudinally, the main background, moderating and mediating factors, as well as the primary consequences associated with the development of the distinct forms of social conflict and cohesion in Chile. The territorial and geographic dimension constitutes a transversal aspect of the design and subsequent analysis of the results.
 
-Jekyll also offers powerful support for code snippets:
+        Among other topics, it seeks to analyze the perception that people have about the neighborhood or the community in which they live; forms of civic participation and formal political activity, attitudes toward democracy, pro-social behavior, primary and extended social networks, attitudes toward immigrants, economic inequality, employment, socio-economic characterization. Given that these issues are integrated in a single survey, it would be possible to relate these aspects in comprehensive models to understand Chilean’s social reality, incorporating contextual geospatial and social information.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+        ELSOC’s sample has been designed following a multi-stage probability approach, using a stratified sample (by city size). First, forty cities were randomly selected from tires with more than 10.000 habitants (from a total of 122 cities). In a second stage, 1067 urban blocks were randomly selected within the forty cities. Then, in a third stage households were randomly selected, and lastly, within each household individuals over 18 years of age were randomly selected. By design, there will be a refresh sample during the third wave. The sample of the first wave of the study is representative of an urban population living in cities of 10,000 or more inhabitants, and represents approximately 77% of the total adult population, and 93% of the urban population. The response rate (AAPOR RR1) was 62.4%. Interviews are conducted face to face with computer assistance (tablet CAPI) by professional interviewers, and participants are paid a small sum for subsequent interviews (USD 9 approximately).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+# File downloads Wave 03
+{:data-align="center"}
+        
+        |File                 |   Download link                           |
+        | ------------------- | :---------------------------------------: |
+        | Base R Data 2018    |[.RData](https://bit.ly/3QE9HCn)           |
+        | Base SPSS Data 2018 |[.sav](https://bit.ly/3CfbCJa)             |
+        | Base STATA Data 2018|[.dta](https://bit.ly/3Ca3QjU)             |
+        | Cuestionario Es 2018|[.pdf](https://bit.ly/3SX0g2z)             |
+        | User Manual Es 2018 |[.pdf](https://bit.ly/3Ax5drq)             |
+        {:data-align="center"}
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
