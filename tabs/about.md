@@ -34,9 +34,8 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+The Center for Social Conflict and Cohesion Studies (COES) develops collaborative research on issues related to social conflict and cohesion (coexistence) in Chile, through a multidisciplinary team from the social sciences and humanities.
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+COES focuses its academic and dissemination activities on the analysis of the multiple manifestations of social conflict in Chile, its causes and its cultural and historical context.
 
-{{ website_info_text_second }}
+The Centre is sponsored by the Universidad de Chile and the Pontificia Universidad Católica de Chile, and its partner institutions are the Universidad Diego Portales and the Universidad Adolfo Ibáñez. COES is funded by ANID’s FONDAP programme.
