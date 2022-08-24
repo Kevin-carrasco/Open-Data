@@ -5,11 +5,11 @@ title: ELSOC 2017
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: "COES"
+author: COES
 # multiple category is not supported
 category: auto generated
 # multiple tag entries are possible
-tags: [jekyll, test]
+tags: [ELSOC, DATA, CODEBOOK]
 # thumbnail image for post
 img: ":post_pic2.jpg"
 # disable comments on this page
