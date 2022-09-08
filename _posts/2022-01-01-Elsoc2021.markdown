@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_What_is_this
-title: "ELSOC 2016 - 2019"
+title: "ELSOC 2021"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
