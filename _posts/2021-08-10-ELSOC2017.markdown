@@ -54,11 +54,11 @@ File downloads Wave 02
 
 |File                 |   Download link                           |
 | ------------------- | :---------------------------------------: |
-| Base R Data 2017    |[.RData](https://bit.ly/3QE9HCn)           |
-| Base SPSS Data 2017 |[.sav](https://bit.ly/3CfbCJa)             |
-| Base STATA Data 2017|[.dta](https://bit.ly/3Ca3QjU)             |
-| Cuestionario Es 2017|[.pdf](https://bit.ly/3SX0g2z)             |
-| User Manual Es 2017 |[.pdf](https://bit.ly/3Ax5drq)             |
+| Base R Data 2017    |[.RData](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/JDJLPQ/CJJV3T&version=3.0)           |
+| Base SPSS Data 2017 |[.sav](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/JDJLPQ/FKH4U1&version=3.0)             |
+| Base STATA Data 2017|[.dta](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/JDJLPQ/QR5BJH&version=3.0)             |
+| Cuestionario Es 2017|[.pdf](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/JDJLPQ/RKMROY&version=3.0)             |
+| User Manual Es 2017 |[.pdf](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/JDJLPQ/RIEXSL&version=3.0)             |
 {:data-align="center"}
         
 
