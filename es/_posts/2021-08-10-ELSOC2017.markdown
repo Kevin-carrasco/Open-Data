@@ -62,5 +62,3 @@ File downloads Wave 02
 {:data-align="center"}
 
 <!-- outline-end --> 
-
-{{ website_info_text_second }}
