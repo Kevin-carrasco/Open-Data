@@ -63,8 +63,5 @@ File downloads
 | Base STATA Data 2016-2021|[.tav](https://dataverse.harvard.edu/file.xhtml?fileId=6160176&version=1.0)             |
 {:data-align="center"}
 
-{{ website_info_text_first }}
 
 <!-- outline-end -->
-
-{{ website_info_text_second }}
