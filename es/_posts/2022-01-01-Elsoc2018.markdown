@@ -56,4 +56,3 @@ File downloads Wave 03
 | Base STATA Data 2018|[.dta](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/H8OVMF/C8PD7R&version=2.1)             |
 | Cuestionario Es 2018|[.pdf](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/H8OVMF/QSHBBD&version=2.1)             |
 {:data-align="center"}
-

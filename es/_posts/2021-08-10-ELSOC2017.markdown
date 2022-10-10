@@ -61,6 +61,6 @@ File downloads Wave 02
 | User Manual Es 2017 |[.pdf](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/JDJLPQ/RIEXSL&version=3.0)             |
 {:data-align="center"}
 
-<!-- outline-end -->
+<!-- outline-end --> 
 
 {{ website_info_text_second }}
