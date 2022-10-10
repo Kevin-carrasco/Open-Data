@@ -11,7 +11,7 @@ category: Databases
 # multiple tag entries are possible
 tags: [ELSOC, DATA, CODEBOOK]
 # thumbnail image for post
-img: ":post_pic3.jpg"
+img: ":elsoc_img.jpg"
 # disable comments on this page
 #comments_disable: true
 
@@ -38,13 +38,14 @@ date: 2019-01-01 10:04:30 +0900
 ---
 <!-- outline-start -->
 
-About ELSOC
+Sobre ELSOC
 
-The Chilean Longitudinal Social Survey (ELSOC) is a panel study, unique in Chile and Latin America. It consists of surveying nearly 3,000 Chileans annually over a decade. ELSOC has been designed to evaluate the way in which Chileans think, feel and behave regarding a set of social issues related to conflict and social cohesion in Chile. Because of its nature, it seeks to analyze, longitudinally, the main background, moderating and mediating factors, as well as the primary consequences associated with the development of the distinct forms of social conflict and cohesion in Chile. The territorial and geographic dimension constitutes a transversal aspect of the design and subsequent analysis of the results.
+La Encuesta Social Longitudinal de Chile (ELSOC) es un estudio de panel, único en Chile y América Latina. Consiste en encuestar a cerca de 3.000 chilenos anualmente durante una década. ELSOC ha sido diseñado para evaluar la forma en que los chilenos piensan, sienten y se comportan frente a un conjunto de temas sociales relacionados con el conflicto y la cohesión social en Chile. Por su naturaleza, busca analizar, longitudinalmente, los principales antecedentes, factores moderadores y mediadores, así como las principales consecuencias asociadas al desarrollo de las distintas formas de conflictividad y cohesión social en Chile. La dimensión territorial y geográfica constituye un aspecto transversal del diseño y posterior análisis de los resultados.
 
-Among other topics, it seeks to analyze the perception that people have about the neighborhood or the community in which they live; forms of civic participation and formal political activity, attitudes toward democracy, pro-social behavior, primary and extended social networks, attitudes toward immigrants, economic inequality, employment, socio-economic characterization. Given that these issues are integrated in a single survey, it would be possible to relate these aspects in comprehensive models to understand Chilean’s social reality, incorporating contextual geospatial and social information.
+Entre otros temas, busca analizar la percepción que tienen las personas sobre el barrio o la comunidad en la que viven; formas de participación ciudadana y actividad política formal, actitudes hacia la democracia, comportamiento prosocial, redes sociales primarias y extendidas, actitudes hacia los inmigrantes, desigualdad económica, empleo, caracterización socioeconómica. Dado que estos temas están integrados en una sola encuesta, sería posible relacionar estos aspectos en modelos integrales para comprender la realidad social de Chile, incorporando información geoespacial y social contextual.
 
-ELSOC’s sample has been designed following a multi-stage probability approach, using a stratified sample (by city size). First, forty cities were randomly selected from tires with more than 10.000 habitants (from a total of 122 cities). In a second stage, 1067 urban blocks were randomly selected within the forty cities. Then, in a third stage households were randomly selected, and lastly, within each household individuals over 18 years of age were randomly selected. By design, there will be a refresh sample during the third wave. The sample of the first wave of the study is representative of an urban population living in cities of 10,000 or more inhabitants, and represents approximately 77% of the total adult population, and 93% of the urban population. The response rate (AAPOR RR1) was 62.4%. Interviews are conducted face to face with computer assistance (tablet CAPI) by professional interviewers, and participants are paid a small sum for subsequent interviews (USD 9 approximately).
+La muestra de ELSOC ha sido diseñada siguiendo un enfoque probabilístico multietápico, utilizando una muestra estratificada (por tamaño de ciudad). En primer lugar, se seleccionaron aleatoriamente cuarenta ciudades de neumáticos con más de 10.000 habitantes (de un total de 122 ciudades). En una segunda etapa, se seleccionaron aleatoriamente 1067 manzanas dentro de las cuarenta ciudades. Luego, en una tercera etapa se seleccionaron aleatoriamente los hogares y, por último, dentro de cada hogar se seleccionaron aleatoriamente las personas mayores de 18 años. Por diseño, habrá una muestra de actualización durante la tercera ola. La muestra de la primera ola del estudio es representativa de una población urbana residente en ciudades de 10.000 o más habitantes, y representa aproximadamente el 77% de la población adulta total, y el 93% de la población urbana. La tasa de respuesta (AAPOR RR1) fue del 62,4%. Las entrevistas se realizan cara a cara con asistencia informática (tablet CAPI) por entrevistadores profesionales, y los participantes reciben una pequeña suma por las entrevistas posteriores (9 USD aproximadamente).
+
 
 File downloads Wave 03
 {:data-align="center"}
