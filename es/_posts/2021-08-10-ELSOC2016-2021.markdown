@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [ELSOC, DATA, CODEBOOK]
 # thumbnail image for post
-img: ":project1_thumb.jpg"
+img: ":elsoc_img.jpg"
 # disable comments on this page
 comments_disable: true
 
