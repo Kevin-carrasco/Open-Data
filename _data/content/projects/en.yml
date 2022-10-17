@@ -13,19 +13,19 @@ page_data:
 
   category:
     - title: "ELSOC"
-      type: id_example
+      type: elsoc
       color: "gray"
     - title: "OC"
-      type: id_example
+      type: oc
       color: "#62b462"
     - title: "OHL"
-      type: id_example
+      type: ohl
       color: "#2FD0ED"
 
   list:
     # example
-    - type: id_example
-      project_name: "ELSOC 2016"
+    - type: elsoc
+      project_name: "ELSOC"
       project_excerpt: "Data Bases"
       img: ":project1_thumb.jpg"
       img_title: "ELSOC"
@@ -39,28 +39,15 @@ page_data:
 
         ELSOC’s sample has been designed following a multi-stage probability approach, using a stratified sample (by city size). First, forty cities were randomly selected from tires with more than 10.000 habitants (from a total of 122 cities). In a second stage, 1067 urban blocks were randomly selected within the forty cities. Then, in a third stage households were randomly selected, and lastly, within each household individuals over 18 years of age were randomly selected. By design, there will be a refresh sample during the third wave. The sample of the first wave of the study is representative of an urban population living in cities of 10,000 or more inhabitants, and represents approximately 77% of the total adult population, and 93% of the urban population. The response rate (AAPOR RR1) was 62.4%. Interviews are conducted face to face with computer assistance (tablet CAPI) by professional interviewers, and participants are paid a small sum for subsequent interviews (USD 9 approximately).
  
-
-        ### File downloads Wave 01
-        {:data-align="center"}
-        
-
-        |File                 |   Download link                           |
-        | ------------------- | :---------------------------------------: |
-        | Base R Data 2016    |[.RData](https://bit.ly/3waE9Mo)           |
-        | Base SPSS Data 2016 |[.sav](https://bit.ly/3SSYS0V)             |
-        | Base STATA Data 2016|[.dta](https://bit.ly/3QxTpuP)             |
-        | Questionary En 2016 |[.pdf](https://bit.ly/3PywFcH)             |
-        | Cuestionario Es 2016|[.pdf](https://bit.ly/3dEEksX)             |
-        | User Manual Es 2016 |[.pdf](https://bit.ly/3QXDNAJ)             |
-        {:data-align="center"}
-        
-    - type: id_example
-      project_name: "ELSOC 2017"
+    - type: ohl
+      project_name: "Observatory of Labor Strikes"
       project_excerpt: "Data Bases"
       img: ":project1_thumb.jpg"
-      img_title: "ELSOC"
+      img_title: "OHL"
       date: "2019-05-03"
       post: |
+       The main objective of the OHL is to periodically record the labor strikes that have occurred in the country, continuing the work carried out by Professor Alberto Armstrong between 1979 and 2010. The OHL added new variables to those recorded by Professor Armstrong and perfected the methodology for collecting information in order to contribute to a better characterization of labor conflict in Chile. The database is unique in the country as it includes information on extralegal strikes in the private sector, strikes in the public sector, union strategies, police intervention, among other data that has not been systematically recorded by state agencies or by other organizations. . For this reason, it represents a unique opportunity for research on labor conflict and for social actors interested in the dynamics of labor relations in Chile.
+      
         
     - type: id_example
       project_name: "Observatory of Conflicts"
