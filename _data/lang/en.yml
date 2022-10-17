@@ -110,7 +110,7 @@ post-list:
     tab:
       all: All
       categories: Categories
-      tags: Tags
+      tags: Projects
       years: Years
       clear: Clear
       close: Close
@@ -120,7 +120,7 @@ post-list:
     msg:
       property_list:
         # keys need to match with /query/post-query.json
-        tags: Tag
+        tags: Project
         category: Category
         year: Year
       # you can use these wildcards, {property} {value} {thumb}
