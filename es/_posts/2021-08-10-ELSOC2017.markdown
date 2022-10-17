@@ -39,19 +39,14 @@ date: 2017-08-11 12:35:04 +0900
 
 <!-- outline-start -->
 
-Sobre ELSOC
+En la presente entrada puede encontrar los archivos asociados a la Encuesta Longitudinal Social de Chile para el año 2017. En caso de buscar más información, por favor revise el manual metodológico en el siguiente [enlace](https://coes.cl/encuesta-panel-manuales-metodologico-espanol/).
 
-La Encuesta Social Longitudinal de Chile (ELSOC) es un estudio de panel, único en Chile y América Latina. Consiste en encuestar a cerca de 3.000 chilenos anualmente durante una década. ELSOC ha sido diseñado para evaluar la forma en que los chilenos piensan, sienten y se comportan frente a un conjunto de temas sociales relacionados con el conflicto y la cohesión social en Chile. Por su naturaleza, busca analizar, longitudinalmente, los principales antecedentes, factores moderadores y mediadores, así como las principales consecuencias asociadas al desarrollo de las distintas formas de conflictividad y cohesión social en Chile. La dimensión territorial y geográfica constituye un aspecto transversal del diseño y posterior análisis de los resultados.
 
-Entre otros temas, busca analizar la percepción que tienen las personas sobre el barrio o la comunidad en la que viven; formas de participación ciudadana y actividad política formal, actitudes hacia la democracia, comportamiento prosocial, redes sociales primarias y extendidas, actitudes hacia los inmigrantes, desigualdad económica, empleo, caracterización socioeconómica. Dado que estos temas están integrados en una sola encuesta, sería posible relacionar estos aspectos en modelos integrales para comprender la realidad social de Chile, incorporando información geoespacial y social contextual.
-
-La muestra de ELSOC ha sido diseñada siguiendo un enfoque probabilístico multietápico, utilizando una muestra estratificada (por tamaño de ciudad). En primer lugar, se seleccionaron aleatoriamente cuarenta ciudades de neumáticos con más de 10.000 habitantes (de un total de 122 ciudades). En una segunda etapa, se seleccionaron aleatoriamente 1067 manzanas dentro de las cuarenta ciudades. Luego, en una tercera etapa se seleccionaron aleatoriamente los hogares y, por último, dentro de cada hogar se seleccionaron aleatoriamente las personas mayores de 18 años. Por diseño, habrá una muestra de actualización durante la tercera ola. La muestra de la primera ola del estudio es representativa de una población urbana residente en ciudades de 10.000 o más habitantes, y representa aproximadamente el 77% de la población adulta total, y el 93% de la población urbana. La tasa de respuesta (AAPOR RR1) fue del 62,4%. Las entrevistas se realizan cara a cara con asistencia informática (tablet CAPI) por entrevistadores profesionales, y los participantes reciben una pequeña suma por las entrevistas posteriores (9 USD aproximadamente).
-
-File downloads Wave 02
+Descargar ELSOC 2017
 {:data-align="center"}
         
 
-|File                 |   Download link                           |
+|Archivo                 |   Link de descarga                       |
 | ------------------- | :---------------------------------------: |
 | Base R Data 2017    |[.RData](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/JDJLPQ/CJJV3T&version=3.0)           |
 | Base SPSS Data 2017 |[.sav](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/JDJLPQ/FKH4U1&version=3.0)             |
