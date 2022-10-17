@@ -4,8 +4,8 @@
 ###########################################################
 page_data:
   main:
-    header: "Projects"
-    info: "Your Project page description."
+    header: "Proyectos"
+    info: "Descripción de los proyectos"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
@@ -23,8 +23,7 @@ page_data:
       color: "#2FD0ED"
 
   list:
- list:
-    # example
+  # example
     - type: elsoc
       project_name: "ELSOC"
       project_excerpt: "Data Bases"
@@ -47,8 +46,7 @@ page_data:
       img_title: "OHL"
       date: "2019-05-03"
       post: |
-        # About OHL
-       The main objective of the Observatory of Labor Strikes (OHL) is to periodically record the labor strikes that have occurred in the country, continuing the work carried out by Professor Alberto Armstrong between 1979 and 2010. The OHL added new variables to those recorded by Professor Armstrong and perfected the methodology for collecting information in order to contribute to a better characterization of labor conflict in Chile. The database is unique in the country as it includes information on extralegal strikes in the private sector, strikes in the public sector, union strategies, police intervention, among other data that has not been systematically recorded by state agencies or by other organizations. . For this reason, it represents a unique opportunity for research on labor conflict and for social actors interested in the dynamics of labor relations in Chile.
+       The main objective of the OHL is to periodically record the labor strikes that have occurred in the country, continuing the work carried out by Professor Alberto Armstrong between 1979 and 2010. The OHL added new variables to those recorded by Professor Armstrong and perfected the methodology for collecting information in order to contribute to a better characterization of labor conflict in Chile. The database is unique in the country as it includes information on extralegal strikes in the private sector, strikes in the public sector, union strategies, police intervention, among other data that has not been systematically recorded by state agencies or by other organizations. . For this reason, it represents a unique opportunity for research on labor conflict and for social actors interested in the dynamics of labor relations in Chile.
       
         
     - type: oc
@@ -58,7 +56,6 @@ page_data:
       img_title: "Observatory of Conflicts"
       date: "2020-04-02"
       post: |
-        # About OC
        In 2015, from COES arose the idea to build an Observatory of Conflicts (OC) whose objective is identify conflicts in Chile through press analysis. The OC's work will allow to detect regularities and patterns, at different levels, national, regional and local, all trying to follow the logic of conflict escalation. In this way, it is intended to obtain relevant data on the level of conflict in Chile in recent years. To do this, the report “The Social Protest in Latin America” of the UNDP Regional Directorate for the empirical data collection, conceptually close to the COES Theoretical Agenda, was taken as a theoretical model.
 
        The methodology to be used is data collection through press analysis. Articles related to some type of conflict are identified and coded according to the instructions designed for this purpose. A coverage of national circulation newspapers is made, as well as regional circulation newspapers and thus be able to cover local conflicts that are not described by national means.
