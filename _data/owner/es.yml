@@ -47,13 +47,13 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "https://github.com/web-coes/Open-Data"
+  - github: "web-coes/Open-Data"
   - email: "comunicaciones@coes.cl"
   #- linkedin: "
   - twitter: "@CentroCOES"
-  - instagram: "@centro_coes"
-  - youtube: "https://www.youtube.com/centro_coes"
-  - facebook: "https://es-la.facebook.com/CentroCOES/"
+  - instagram: "centro_coes"
+  - youtube: "centro_coes"
+  - facebook: "CentroCOES"
 # to add more, check the _data/const/contact.yml file
 #  - your_new_contact: ""
 
