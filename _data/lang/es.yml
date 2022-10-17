@@ -104,13 +104,13 @@ post:
 
 # for post-list layout
 post-list:
-  title: Blog
-  button_name: Blog
+  title: Documentación
+  button_name: Documentación
   upside_down_tabs:
     tab:
       all: All
       categories: Categorías
-      tags: Tags
+      tags: Proyectos
       years: Años
       clear: Limpiar
       close: Cerrar
@@ -120,7 +120,7 @@ post-list:
     msg:
       property_list:
         # keys need to match with /query/post-query.json
-        tags: Tag
+        tags: Proyecto
         category: Categoría
         year: Año
       # you can use these wildcards, {property} {value} {thumb}
