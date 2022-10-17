@@ -14,7 +14,7 @@ page_data:
   category:
     - title: "ELSOC"
       type: elsoc
-      color: "pink"
+      color: "gray"
     - title: "OC"
       type: oc
       color: "#62b462"

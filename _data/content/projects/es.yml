@@ -12,14 +12,14 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "ELSOC"
+      type: elsoc
       color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "OC"
+      type: oc
       color: "#62b462"
-    - title: "Quote"
-      type: id_quote
+    - title: "OHL"
+      type: ohl
       color: "#2FD0ED"
 
   list:
