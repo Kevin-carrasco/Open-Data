@@ -7,9 +7,9 @@ title: ELSOC 2016-2021
 # if not specified, .name will be used from _data/owner/[language].yml
 author: COES
 # multiple category is not supported
-category: auto generated
+category: Databases
 # multiple tag entries are possible
-tags: [ELSOC, DATA, CODEBOOK]
+tags: [ELSOC]
 # thumbnail image for post
 img: ":elsoc_img.jpg"
 # disable comments on this page

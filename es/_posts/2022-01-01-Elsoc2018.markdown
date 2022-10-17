@@ -9,7 +9,7 @@ author: COES
 # multiple category is not supported
 category: Databases
 # multiple tag entries are possible
-tags: [ELSOC, DATA, CODEBOOK]
+tags: [ELSOC]
 # thumbnail image for post
 img: ":elsoc_img.jpg"
 # disable comments on this page
