@@ -59,7 +59,7 @@ not-found:
 post:
   read_time:
     unit: " min"
-    text: " leer"
+    text: " lectura"
     # c for char w for word
     word_char: w
     # char or words per minute
@@ -147,15 +147,15 @@ about:
 
 # for links layout
 links:
-  title: Links
-  button_name: Links
+  title: Enlaces
+  button_name: Enlaces
   link_text: Web site
   info_text: Info
 
 # for projects layout
 projects:
-  title: Projectos
-  button_name: Projectos
+  title: Proyectos
+  button_name: Proyectos
   read_more_text: Leer más
   read_less_text: Leer menos
 
