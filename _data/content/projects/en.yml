@@ -27,7 +27,7 @@ page_data:
     - type: elsoc
       project_name: "ELSOC"
       project_excerpt: "Data Bases"
-      img: ":project1_thumb.jpg"
+      img: ":elsoc_img.jpg"
       img_title: "ELSOC"
       date: "2018-11-12"
       post: |
@@ -42,17 +42,17 @@ page_data:
     - type: ohl
       project_name: "Observatory of Labor Strikes"
       project_excerpt: "Data Bases"
-      img: ":project1_thumb.jpg"
+      img: ":ohl_img.jpg"
       img_title: "OHL"
       date: "2019-05-03"
       post: |
        The main objective of the OHL is to periodically record the labor strikes that have occurred in the country, continuing the work carried out by Professor Alberto Armstrong between 1979 and 2010. The OHL added new variables to those recorded by Professor Armstrong and perfected the methodology for collecting information in order to contribute to a better characterization of labor conflict in Chile. The database is unique in the country as it includes information on extralegal strikes in the private sector, strikes in the public sector, union strategies, police intervention, among other data that has not been systematically recorded by state agencies or by other organizations. . For this reason, it represents a unique opportunity for research on labor conflict and for social actors interested in the dynamics of labor relations in Chile.
       
         
-    - type: id_example
+    - type: oc
       project_name: "Observatory of Conflicts"
       project_excerpt: "Data Bases"
-      img: ":project1_thumb.jpg"
+      img: ":oc_img.jpg"
       img_title: "Observatory of Conflicts"
       date: "2020-04-02"
       post: |
