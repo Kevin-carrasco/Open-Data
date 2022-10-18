@@ -8,7 +8,7 @@ lng:
   country: ES
   switch_title: Es
   offer:
-    title: Languaje
+    title: Lenguaje
     msg_page: Ver esta página en español.
     # if page translation is not available, use this.
     msg_site: To English home page
