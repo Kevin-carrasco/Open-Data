@@ -132,6 +132,13 @@ home:
   button_name: Inicio
   new_posts_title: Nuevas publicaciones
   new_posts_show_more_button: Ver más ...
+  
+# for resources layout
+resources:
+  title: Recursos
+  button_name: Recursos
+  read_more_text: Leer más...
+  read_less_text: Leer menos...
 
 # for archives layout
 archives:
