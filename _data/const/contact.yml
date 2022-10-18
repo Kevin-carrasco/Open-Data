@@ -16,7 +16,7 @@ email:
   url: ""
 linkedin:
   icon: "fa fa-linkedin"
-  url: "https://www.linkedin.com/in"
+  url: "https://www.linkedin.com/company"
 twitter:
   icon: "fa fa-twitter"
   url: "https://twitter.com"
@@ -25,7 +25,7 @@ instagram:
   url: "https://www.instagram.com"
 youtube:
   icon: "fa fa-youtube-play"
-  url: "https://www.youtube.com/channel"
+  url: "https://www.youtube.com/c"
 facebook:
   icon: "fa fa-facebook"
   url: "https://www.facebook.com"

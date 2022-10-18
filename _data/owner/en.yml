@@ -50,7 +50,7 @@ meta_common_description: "Your meta description."
 contacts:
   - github: "web-coes/Open-Data"
   - email: "comunicaciones@coes.cl"
-  #- linkedin: "
+  - linkedin: "centrocoes"
   - twitter: "@CentroCOES"
   - instagram: "centro_coes"
   - youtube: "centro_coes"
