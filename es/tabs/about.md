@@ -33,7 +33,7 @@ img: ":about.jpg"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-El Centro de Estudios de Cohesión y Conflicto Social (COES) desarrolla investigación colaborativa en temas relacionados con el conflicto social y la cohesión (convivencia) en Chile, a través de un equipo multidisciplinario de las ciencias sociales y humanidades. miau
+El Centro de Estudios de Cohesión y Conflicto Social (COES) desarrolla investigación colaborativa en temas relacionados con el conflicto social y la cohesión (convivencia) en Chile, a través de un equipo multidisciplinario de las ciencias sociales y humanidades.
 
 El COES centra sus actividades académicas y de divulgación en el análisis de las múltiples manifestaciones del conflicto social en Chile, sus causas y su contexto cultural e histórico.
 
