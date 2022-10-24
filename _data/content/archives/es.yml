@@ -1,0 +1,67 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "Proyectos"
+    info: "Descripción de los proyectos"
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":projects-heading.jpg"
+    back_color: "lightblue"
+
+  category:
+    - title: "ELSOC"
+      type: elsoc
+      color: "gray"
+    - title: "OC"
+      type: oc
+      color: "#62b462"
+    - title: "OHL"
+      type: ohl
+      color: "#2FD0ED"
+
+  list:
+  # example
+    - type: elsoc
+      project_name: "ELSOC"
+      project_excerpt: "Data Bases"
+      img: ":elsoc_img.jpg"
+      img_title: "ELSOC"
+      date: "2018-11-12"
+      post: |
+        # About ELSOC
+
+        The Chilean Longitudinal Social Survey (ELSOC) is a panel study, unique in Chile and Latin America. It consists of surveying nearly 3,000 Chileans annually over a decade. ELSOC has been designed to evaluate the way in which Chileans think, feel and behave regarding a set of social issues related to conflict and social cohesion in Chile. Because of its nature, it seeks to analyze, longitudinally, the main background, moderating and mediating factors, as well as the primary consequences associated with the development of the distinct forms of social conflict and cohesion in Chile. The territorial and geographic dimension constitutes a transversal aspect of the design and subsequent analysis of the results.
+
+        Among other topics, it seeks to analyze the perception that people have about the neighborhood or the community in which they live; forms of civic participation and formal political activity, attitudes toward democracy, pro-social behavior, primary and extended social networks, attitudes toward immigrants, economic inequality, employment, socio-economic characterization. Given that these issues are integrated in a single survey, it would be possible to relate these aspects in comprehensive models to understand Chilean’s social reality, incorporating contextual geospatial and social information.
+
+        ELSOC’s sample has been designed following a multi-stage probability approach, using a stratified sample (by city size). First, forty cities were randomly selected from tires with more than 10.000 habitants (from a total of 122 cities). In a second stage, 1067 urban blocks were randomly selected within the forty cities. Then, in a third stage households were randomly selected, and lastly, within each household individuals over 18 years of age were randomly selected. By design, there will be a refresh sample during the third wave. The sample of the first wave of the study is representative of an urban population living in cities of 10,000 or more inhabitants, and represents approximately 77% of the total adult population, and 93% of the urban population. The response rate (AAPOR RR1) was 62.4%. Interviews are conducted face to face with computer assistance (tablet CAPI) by professional interviewers, and participants are paid a small sum for subsequent interviews (USD 9 approximately).
+ 
+    - type: ohl
+      project_name: "Observatorio de Huelgas Laborales"
+      project_excerpt: "Data Bases"
+      img: ":ohl_img.jpg"
+      img_title: "OHL"
+      date: "2019-05-03"
+      post: |
+       The main objective of the OHL is to periodically record the labor strikes that have occurred in the country, continuing the work carried out by Professor Alberto Armstrong between 1979 and 2010. The OHL added new variables to those recorded by Professor Armstrong and perfected the methodology for collecting information in order to contribute to a better characterization of labor conflict in Chile. The database is unique in the country as it includes information on extralegal strikes in the private sector, strikes in the public sector, union strategies, police intervention, among other data that has not been systematically recorded by state agencies or by other organizations. . For this reason, it represents a unique opportunity for research on labor conflict and for social actors interested in the dynamics of labor relations in Chile.
+      
+        
+    - type: oc
+      project_name: "Observatorio de Conflictos"
+      project_excerpt: "Data Bases"
+      img: ":oc_img.jpg"
+      img_title: "Observatory of Conflicts"
+      date: "2020-04-02"
+      post: |
+       In 2015, from COES arose the idea to build an Observatory of Conflicts (OC) whose objective is identify conflicts in Chile through press analysis. The OC's work will allow to detect regularities and patterns, at different levels, national, regional and local, all trying to follow the logic of conflict escalation. In this way, it is intended to obtain relevant data on the level of conflict in Chile in recent years. To do this, the report “The Social Protest in Latin America” of the UNDP Regional Directorate for the empirical data collection, conceptually close to the COES Theoretical Agenda, was taken as a theoretical model.
+
+       The methodology to be used is data collection through press analysis. Articles related to some type of conflict are identified and coded according to the instructions designed for this purpose. A coverage of national circulation newspapers is made, as well as regional circulation newspapers and thus be able to cover local conflicts that are not described by national means.
+
+       The interest in understanding the conflict in Chile through the analysis of protest events defined certain themes as fundamental: number and geographical distribution of the conflict, magnitude with respect to the participants of the events, actors involved, convening organizations, demand elements, level of violence, tactics used, among others.
+
+
+
+   
