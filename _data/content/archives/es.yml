@@ -4,8 +4,8 @@
 ###########################################################
 page_data:
   main:
-    header: "Proyectos"
-    info: "Descripción de los proyectos"
+    header: "Documentación"
+    info: "Documentación de los proyectos"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
@@ -26,7 +26,7 @@ page_data:
   # example
     - type: elsoc
       project_name: "ELSOC"
-      project_excerpt: "Data Bases"
+      project_excerpt: "Documentation"
       img: ":elsoc_img.jpg"
       img_title: "ELSOC"
       date: "2018-11-12"
@@ -41,7 +41,7 @@ page_data:
  
     - type: ohl
       project_name: "Observatorio de Huelgas Laborales"
-      project_excerpt: "Data Bases"
+      project_excerpt: "Documentation"
       img: ":ohl_img.jpg"
       img_title: "OHL"
       date: "2019-05-03"
@@ -51,7 +51,7 @@ page_data:
         
     - type: oc
       project_name: "Observatorio de Conflictos"
-      project_excerpt: "Data Bases"
+      project_excerpt: "Documentation"
       img: ":oc_img.jpg"
       img_title: "Observatory of Conflicts"
       date: "2020-04-02"

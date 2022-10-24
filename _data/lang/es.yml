@@ -104,8 +104,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Documentación
-  button_name: Documentación
+  title: Bases de Datos
+  button_name: Bases de Datos
   upside_down_tabs:
     tab:
       all: All
@@ -142,9 +142,9 @@ resources:
 
 # for archives layout
 archives:
-  title: Archivo
-  button_name: Archivo
-  page_header: Archivo
+  title: Documentación
+  button_name: Documentación
+  page_header: Documentación
   read_more_text: Leer más
   read_less_text: Leer menos  
 
