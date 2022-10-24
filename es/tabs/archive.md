@@ -21,9 +21,9 @@ lng_pair: id_archives
 
 # optional
 # if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
-#image_viewer_on: true
+image_viewer_on: true
 # if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
-#image_lazy_loader_on: true
+image_lazy_loader_on: true
 # exclude from on site search
 #on_site_search_exclude: true
 # exclude from search engines
