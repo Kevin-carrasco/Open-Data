@@ -248,7 +248,7 @@
 {% endif %}
 
 {% if archives_page_exist %}
-  @import "archives/archive-container";
+  @import "archives/archives";
 {% endif %}
 
 {% if links_page_exist %}
