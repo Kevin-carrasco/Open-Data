@@ -145,6 +145,8 @@ archives:
   title: Archivo
   button_name: Archivo
   page_header: Archivo
+  read_more_text: Leer más
+  read_less_text: Leer menos  
 
 # for about layout
 about:

@@ -147,6 +147,8 @@ archives:
   title: Archive
   button_name: Archive
   page_header: Archive
+  read_more_text: Read more
+  read_less_text: Read less
 
 # for about layout
 about:
