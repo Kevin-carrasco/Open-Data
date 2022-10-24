@@ -104,8 +104,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Bases de Datos
-  button_name: Bases de Datos
+  title: Databases
+  button_name: Databases
   upside_down_tabs:
     tab:
       all: All
