@@ -37,9 +37,10 @@ page_data:
         
         |File                 |   Download link                           |
         | ------------------- | :---------------------------------------: |
-        | Base R Data 2016-2019    |[.RData](https://dataverse.harvard.edu/file.xhtml?fileId=4606527&version=1.0)           |
-        | Base SPSS Data 2016-2019 |[.sav](https://dataverse.harvard.edu/file.xhtml?fileId=4606526&version=1.0)             |
-        | Base STATA Data 2016-2019|[.dta](https://dataverse.harvard.edu/file.xhtml?fileId=4606528&version=1.0)             |
+        | Methodological Manual (Spanish)|[Link](https://manual-metodologico-elsoc.netlify.app/)           |
+        | Methodological Manual (English) |[Link](https://methodological-manual-elsoc.netlify.app/)             |
+        | Social Change Radiography (Spanish)|[Link](https://radiografia-cambio-social-2016-2021.netlify.app/)             |
+        | Variables List    (Spanish)|[Link](https://coes.cl/wp-content/uploads/Listado-de-Variables-ELSOC-2.xlsx)           |
         {:data-align="center"}
 
     - type: ohl
