@@ -49,8 +49,8 @@ File downloads
 
 |File                 |   Download link                           |
 | ------------------- | :---------------------------------------: |
-| Base Territorial Data 2017    |[.tab](https://dataverse.harvard.edu/file.xhtml?fileId=5216817&version=1.0)                                        |
-| Code Book Territorial Data 2017 (English) |[.pdf](https://dataverse.harvard.edu/file.xhtml?fileId=5216816&version=1.0)              |
+| Base Territorial Data 2017    |[.tab](https://dataverse.harvard.edu/file.xhtml?fileId=5216836&version=1.0)                                        |
+| Code Book Territorial Data 2017 (Spanish) |[.pdf](https://dataverse.harvard.edu/file.xhtml?fileId=5216835&version=1.0)              |
 {:data-align="center"}
         
 
