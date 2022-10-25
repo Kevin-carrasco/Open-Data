@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_What_is_this
+title: "OC 2021"
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: COES
+# multiple category is not supported
+category: Databases
+# multiple tag entries are possible
+tags: [OC]
+# thumbnail image for post
+img: ":elsoc_img.jpg"
+# disable comments on this page
+#comments_disable: true
+
+# publish date
+date: 2019-01-01 10:04:30 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-01-01 10:04:30 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+<!-- outline-start -->
+
+En la presente entrada puede encontrar los archivos asociados al Observatorio de Conflictos. En caso de buscar más información, por favor revise el manual metodológico en el siguiente [enlace](https://coes.cl/encuesta-panel-manuales-metodologico-espanol/).
+
+
+Descargar ELSOC 2019
+{:data-align="center"}
+        
+
+|Archivo                 |   Link de descarga                       |
+| ------------------- | :---------------------------------------: |
+| Base R Data 2019    |[.RData](https://dataverse.harvard.edu/file.xhtml?fileId=4606521&version=1.0)           |
+| Base SPSS Data 2019 |[.tav](https://dataverse.harvard.edu/file.xhtml?fileId=4606522&version=1.0)             |
+| Base STATA Data 2019|[.dta](https://dataverse.harvard.edu/file.xhtml?fileId=4606519&version=1.0)             |
+| Cuestionario Es Per 2019|[.pdf](https://dataverse.harvard.edu/file.xhtml?fileId=4606523&version=1.0)             |
+| Cuestionario Es Hai 2019|[.pdf](https://dataverse.harvard.edu/file.xhtml?fileId=4606524&version=1.0)             |
+{:data-align="center"}
