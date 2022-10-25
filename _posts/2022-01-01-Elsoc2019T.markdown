@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_What_is_this
-title: "ELSOC 2019"
+title: "ELSOC 2019 Territorial Data"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -38,18 +38,21 @@ date: 2019-01-01 10:04:30 +0900
 ---
 <!-- outline-start -->
 
-On this page you can find the files associated with the Social Longitudinal Survey of Chile for the year 2019. If you are looking for more information, please review the methodological manual at the following [link](https://coes.cl/encuesta-panel-methodological-manual-elsoc/).
+On this page you can find the territorial data associated with the Social Longitudinal Survey of Chile for the year 2019. If you are looking for more information, please review the methodological manual at the following [link](https://coes.cl/encuesta-panel-methodological-manual-elsoc/).
 
+ 
 
-File downloads Wave 03
+File downloads
 {:data-align="center"}
         
+
 |File                 |   Download link                           |
 | ------------------- | :---------------------------------------: |
-| Base R Data 2019    |[.RData](https://dataverse.harvard.edu/file.xhtml?fileId=4606521&version=1.0)           |
-| Base SPSS Data 2019 |[.tav](https://dataverse.harvard.edu/file.xhtml?fileId=4606522&version=1.0)             |
-| Base STATA Data 2019|[.dta](https://dataverse.harvard.edu/file.xhtml?fileId=4606519&version=1.0)             |
-| Cuestionario Es Per 2019|[.pdf](https://dataverse.harvard.edu/file.xhtml?fileId=4606523&version=1.0)             |
-| Cuestionario Es Hai 2019|[.pdf](https://dataverse.harvard.edu/file.xhtml?fileId=4606524&version=1.0)             |
+| Base Territorial Data 2019    |[.tab](https://dataverse.harvard.edu/file.xhtml?fileId=5216817&version=1.0)                                        |
+| Code Book Territorial Data 2019 (English) |[.pdf](https://dataverse.harvard.edu/file.xhtml?fileId=5216816&version=1.0)              |
 {:data-align="center"}
+        
+
+
+
 

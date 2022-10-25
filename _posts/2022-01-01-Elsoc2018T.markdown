@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_What_is_this
-title: "ELSOC 2018"
+title: "ELSOC 2018 Territorial Data"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -38,17 +38,21 @@ date: 2018-01-01 10:04:30 +0900
 ---
 <!-- outline-start -->
 
-On this page you can find the files associated with the Social Longitudinal Survey of Chile for the year 2018. If you are looking for more information, please review the methodological manual at the following [link](https://coes.cl/encuesta-panel-methodological-manual-elsoc/).
+On this page you can find the territorial data associated with the Social Longitudinal Survey of Chile for the year 2018. If you are looking for more information, please review the methodological manual at the following [link](https://coes.cl/encuesta-panel-methodological-manual-elsoc/).
 
+ 
 
-File downloads Wave 03
+File downloads
 {:data-align="center"}
         
+
 |File                 |   Download link                           |
 | ------------------- | :---------------------------------------: |
-| Base R Data 2018    |[.RData](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/H8OVMF/4US7AQ&version=2.1)           |
-| Base SPSS Data 2018 |[.sav](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/H8OVMF/6R4DW8&version=2.1)             |
-| Base STATA Data 2018|[.dta](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/H8OVMF/C8PD7R&version=2.1)             |
-| Cuestionario Es 2018|[.pdf](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/H8OVMF/QSHBBD&version=2.1)             |
+| Base Territorial Data 2018    |[.tab](https://dataverse.harvard.edu/file.xhtml?fileId=5216817&version=1.0)                                        |
+| Code Book Territorial Data 2018 (English) |[.pdf](https://dataverse.harvard.edu/file.xhtml?fileId=5216816&version=1.0)              |
 {:data-align="center"}
+        
+
+
+
 
