@@ -11,7 +11,7 @@ category: Databases
 # multiple tag entries are possible
 tags: [OC]
 # thumbnail image for post
-img: ":elsoc_img.jpg"
+img: ":oc_img.jpg"
 # disable comments on this page
 #comments_disable: true
 
