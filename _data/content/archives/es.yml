@@ -25,8 +25,8 @@ page_data:
   list:
   # example
     - type: elsoc
-      project_name: "ELSOC"
-      project_excerpt: "Documentation"
+      project_name: "Methodological Documentation"
+      project_excerpt: "Methodological Documentation"
       img: ":elsoc_img.jpg"
       img_title: "ELSOC"
       date: "2018-11-12"
@@ -39,8 +39,22 @@ page_data:
         | ------------------- | :---------------------------------------: |
         | Methodological Manual (Spanish) | [Link](https://manual-metodologico-elsoc.netlify.app/)           |
         | Methodological Manual (English) | [Link](https://methodological-manual-elsoc.netlify.app/)             |
-        | Social Change Radiography (Spanish) | [Link](https://radiografia-cambio-social-2016-2021.netlify.app/)             |
         | Variables List    (Spanish) |     [Link](https://coes.cl/wp-content/uploads/Listado-de-Variables-ELSOC-2.xlsx)           |
+        {:data-align="center"}
+    - type: elsoc
+      project_name: "ELSOC"
+      project_excerpt: "Research Documentation"
+      img: ":elsoc_img.jpg"
+      img_title: "ELSOC"
+      date: "2018-11-12"
+      post: |
+        File downloads
+        {:data-align="center"}
+                
+        
+        |File                 |   Download link                           |
+        | ------------------- | :---------------------------------------: |
+        | Social Change Radiography (Spanish) | [Link](https://radiografia-cambio-social-2016-2021.netlify.app/)             |
         {:data-align="center"}
 
     - type: ohl
