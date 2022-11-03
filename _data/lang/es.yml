@@ -142,6 +142,8 @@ archives:
   title: Documentación
   button_name: Documentación
   page_header: Documentación
+  read_more_text: Leer más
+  read_less_text: Leer menos  
 
 # for about layout
 about:
