@@ -137,9 +137,6 @@ home:
 resources:
   title: Recursos
   button_name: Recursos
-  read_more_text: Leer más...
-  read_less_text: Leer menos...
-
 # for archives layout
 archives:
   title: Documentación
