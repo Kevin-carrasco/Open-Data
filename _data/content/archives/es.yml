@@ -25,7 +25,7 @@ page_data:
   list:
   # example
     - type: elsoc
-      project_name: "Methodological Documentation"
+      project_name: "ELSOC"
       project_excerpt: "Methodological Documentation"
       img: ":elsoc_img.jpg"
       img_title: "ELSOC"
