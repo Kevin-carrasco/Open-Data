@@ -60,6 +60,9 @@ layout: util/compress_js
 {% assign pages = site.html_pages | where_exp: "item", "item.layout == 'projects'" %}
 {% if pages.size > 0 %} {% assign projects_page_exist = true %} {% endif %}
 
+{% assign pages = site.html_pages | where_exp: "item", "item.layout == 'archives'" %}
+{% if pages.size > 0 %} {% assign archives_page_exist = true %} {% endif %}
+
 
 {% if home_page_exist %}
   {% include_relative _js/home/heading-fade-in.js %}
@@ -71,6 +74,10 @@ layout: util/compress_js
 
 {% if projects_page_exist %}
   {% include_relative _js/projects/read-more-less.js %}
+{% endif %}
+
+{% if archives_page_exist %}
+  {% include_relative _js/archives/read-more-less.js %}
 {% endif %}
 
 {%- if post_exist -%}
