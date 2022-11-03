@@ -25,13 +25,13 @@ page_data:
   list:
   # example
     - type: elsoc
-      project_name: "ELSOC"
+      project_name: "Documentación Metodológica"
       project_excerpt: "Methodological Documentation"
       img: ":elsoc_img.jpg"
       img_title: "ELSOC"
       date: "2018-11-12"
       post: |
-        File downloads
+        Documentación Metodológica
         {:data-align="center"}
                 
         
@@ -42,13 +42,13 @@ page_data:
         | Variables List    (Spanish) |     [Link](https://coes.cl/wp-content/uploads/Listado-de-Variables-ELSOC-2.xlsx)           |
         {:data-align="center"}
     - type: elsoc
-      project_name: "ELSOC"
+      project_name: "Documentación de Investigación"
       project_excerpt: "Research Documentation"
       img: ":elsoc_img.jpg"
       img_title: "ELSOC"
       date: "2018-11-12"
       post: |
-        File downloads
+        Documentación de Investigación
         {:data-align="center"}
                 
         
